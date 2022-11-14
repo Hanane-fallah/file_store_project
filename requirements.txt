@@ -1,0 +1,3 @@
+pip install uuid
+pip install logging
+pip install psycopg2
